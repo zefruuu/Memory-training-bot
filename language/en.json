@@ -1,0 +1,11 @@
+{
+    "very_easy": "Very Easy🌱",
+    "easy": "Easy🌼",
+    "medium": "Medium🌟",
+    "hard": "Hard🌪️",
+    "very_hard": "Very Hard🏔️",
+    "difficult": "Please, choose difficulty game",
+    "great": "Great!",
+    "wrong": "Wrong! Try again: /game",
+    "start": "Hello!\nThis bot will help train your memory with easy tasks to remember numbers and symbols.\nto start the game and select difficulty write /game"
+}
